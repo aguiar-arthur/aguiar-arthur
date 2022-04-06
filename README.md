@@ -13,7 +13,7 @@ Book lover 📚.
 
 ```javascript
 const Arthur = {
-  back_end: [Elixir, Erlang, C#, Python],
+  back_end: [C#, Elixir],
   front_end: [Html, Css, Typescript],
   tools: [Docker, Jenkins, Linux, Aws, GClod],
   I_like: ["microservices", "Functional Programming", "SOLID" ,"Agile" ,"TDD", "DDD", "OOP" ,"CLean code", "Clean Architecture"],
