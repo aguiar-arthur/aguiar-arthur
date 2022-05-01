@@ -22,6 +22,6 @@ const Arthur = {
                  "Phoenix",
                  "React Native"
                },
- challenge: "extremely focused on Elixir and Erlang"
+ challenge: "extremely focused on software engineering excellence"
 }
 ```
