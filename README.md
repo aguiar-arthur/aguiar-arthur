@@ -1,9 +1,9 @@
-<h2> Hello! I'm Arthur Aguiar</h2>
+<h2> Hello! I'm Arthur Aguiar </h2>
 
-.NET Developer working on a public management application. </br>
-Data Science specialist. </br>
-Really likes functional programming and elixir.
-Book lover 📚.
+A consultant developer person. </br>
+post graduated in Data science. </br>
+MBA in software engeneering. </br>
+Book lover 📚. </br>
 
 - 👨🏻‍💻 LinkedIn ***https://www.linkedin.com/in/arthur-aguiar575/***
 - 🧾 Medium ***https://arthur-aguiar.medium.com***
