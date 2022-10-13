@@ -51,5 +51,5 @@ const Arthur = {
    "challenge":"extremely focused on software engineering excellence"
 }
 ```
-
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Aguiar575" alt="Gift's LangStat" />
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aguiar575&layout=compact">
