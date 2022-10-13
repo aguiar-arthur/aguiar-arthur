@@ -51,3 +51,5 @@ const Arthur = {
    "challenge":"extremely focused on software engineering excellence"
 }
 ```
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aguiar575&layout=compact">
