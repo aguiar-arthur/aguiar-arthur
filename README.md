@@ -3,7 +3,6 @@
 A consultant developer person. </br>
 Post graduated in Data science. </br>
 MBA in software engeneering. </br>
-Book lover 📚. </br>
 
 LinkedIn ***https://www.linkedin.com/in/arthur-aguiar575/***
 
