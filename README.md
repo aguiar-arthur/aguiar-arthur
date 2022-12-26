@@ -3,3 +3,5 @@
 A consultant developer person. </br>
 Post graduated in Data science. </br>
 MBA in software engeneering. </br>
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Aguiar575&layout=compact">
